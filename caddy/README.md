@@ -122,7 +122,7 @@ example.com {
 ```
 
 ```sh
-caddyfile run --config ./Caddyfile
+caddy run --config ./Caddyfile
 ```
 
 - [`log`](https://caddyserver.com/docs/caddyfile/directives/log)
